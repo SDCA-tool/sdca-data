@@ -1,15 +1,15 @@
-id,zipfile,title,description
-battlefields,battlefields.geojson.zip,,
-carbon_full,carbon_full.geojson.zip,,
-carbon_general,carbon_general.geojson.zip,,
-carbon_super_general,carbon_super_general.geojson.zip,,
-conservationareas,conservationareas.geojson.zip,,
-constituencies,constituencies.geojson.zip,,
-greenbelt,greenbelt.geojson.zip,,
-listedbuildings,listedbuildings.geojson.zip,,
-nationalparks,nationalparks.geojson.zip,,
-parish,parish.geojson.zip,,
-parksandgardens,parksandgardens.geojson.zip,,
-scheduledmonument,scheduledmonument.geojson.zip,,
-wards,wards.geojson.zip,,
-worldheritagesite,worldheritagesite.geojson.zip,,
+id,zipfile,title,description,tippecanoeparams
+battlefields,battlefields.geojson.zip,Title,Description,
+carbon_full,carbon_full.geojson.zip,Title,Description,--name=carbon --layer=carbon --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=12  --coalesce-smallest-as-needed --simplification=10 --detect-shared-borders --maximum-tile-bytes=5000000 --buffer=5
+carbon_general,carbon_general.geojson.zip,Title,Description,--name=carbon --layer=carbon --attribution=MALCOLMMORGAN --maximum-zoom=11 --minimum-zoom=9  --coalesce-smallest-as-needed --simplification=10 --detect-shared-borders --maximum-tile-bytes=5000000 --buffer=5
+carbon_super_general,carbon_super_general.geojson.zip,Title,Description,--name=carbon --layer=carbon --attribution=MALCOLMMORGAN --maximum-zoom=8 --minimum-zoom=4  --coalesce-smallest-as-needed --simplification=10 --detect-shared-borders --maximum-tile-bytes=50000000 --buffer=5
+conservationareas,conservationareas.geojson.zip,Title,Description,
+constituencies,constituencies.geojson.zip,Title,Description,--name=constituencies --layer=constituencies --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=0  --drop-smallest-as-needed --simplification=10 --detect-shared-borders
+greenbelt,greenbelt.geojson.zip,Title,Description,
+listedbuildings,listedbuildings.geojson.zip,Title,Description,
+nationalparks,nationalparks.geojson.zip,Title,Description,
+parish,parish.geojson.zip,Title,Description,--name=parish --layer=parish --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=0  --drop-smallest-as-needed --simplification=10 --detect-shared-borders
+parksandgardens,parksandgardens.geojson.zip,Title,Description,
+scheduledmonument,scheduledmonument.geojson.zip,Title,Description,
+wards,wards.geojson.zip,Title,Description,--name=wards --layer=wards --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=0  --drop-smallest-as-needed --simplification=10 --detect-shared-borders
+worldheritagesite,worldheritagesite.geojson.zip,Title,Description,
