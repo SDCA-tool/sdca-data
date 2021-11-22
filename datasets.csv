@@ -13,3 +13,4 @@ parksandgardens,parksandgardens.geojson.zip,Registered Parks & Gardens,Register 
 scheduledmonument,scheduledmonument.geojson.zip,Scheduled Monuments,Scheduling is our oldest form of heritage protection,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,
 wards,wards.geojson.zip,Wards,Ward boundaries in 2020,FALSE,,,--name=wards --layer=wards --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=0  --drop-smallest-as-needed --simplification=10 --detect-shared-borders
 worldheritagesite,worldheritagesite.geojson.zip,World Heritage Sites,UNESCO world heritage sites,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,
+transitstops,transitstops.geojson.zip,Public transport stops,Great Britain public transport stops,TRUE,PBCC,https://www.carbon.place,
