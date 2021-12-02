@@ -1,6 +1,6 @@
 col_name,data_type,name,description
 stop_id,text,Stop ID,Unique ID for the stop in the NAPTAN
 stop_name,text,Stop name,Name of the stop
-stops_total,decimal,Stops total,Total number of serives stopping at this stop duing the analysis period
-stops_per_week,decimal,Stops per week,Average number of serives stopping at this stop per week
-grade,text,Grade,Grade from A+ to F- comapring the stops per week to national average
+stops_total,decimal,Stops total,Total number of services stopping at this stop duing the analysis period
+stops_per_week,decimal,Stops per week,Average number of services stopping at this stop per week
+grade,text,Grade,Grade from A+ to F- comparing the stops per week to national average
