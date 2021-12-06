@@ -15,3 +15,4 @@ wards,wards.geojson.zip,Wards,Ward boundaries in 2020,MultiPolygon,FALSE,MALCOLM
 worldheritagesite,worldheritagesite.geojson.zip,World Heritage Sites,UNESCO world heritage sites,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
 publictransport,publictransport.geojson.zip,Public transport stops,Great Britain public transport stops,Point,TRUE,PBCC,https://www.carbon.place,--name=publictransport --layer=publictransport --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=4 --drop-densest-as-needed -rg4 --force,TRUE
 dem,UKdem.tif.zip,UK elevation map,UK elevation map,Raster,FALSE,OS,https://www.ordnancesurvey.co.uk/business-government/products/terrain-50,,FALSE
+desire_lines,desire_lines.geojson.zip,NTEM desire lines,NTEM desire lines,Linestring,TRUE,DFT,https://www.dtf.gov.uk,,FALSE
