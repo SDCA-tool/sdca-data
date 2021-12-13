@@ -17,3 +17,11 @@ publictransport,publictransport.geojson.zip,Public transport stops,Great Britain
 dem,UKdem.tif.zip,UK elevation map,UK elevation map,Raster,FALSE,OS,https://www.ordnancesurvey.co.uk/business-government/products/terrain-50,,FALSE
 desire_lines,desire_lines.geojson.zip,NTEM desire lines,NTEM desire lines,LineString,TRUE,DfT,https://www.dft.gov.uk/,,FALSE
 aonb,aonb.geojson.zip,Areas of Outstanding Natural Beauty,Areas of Outstanding Natural Beauty,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
+sssi,SSSI.geojson.zip,SSSI,Site of Special Scientific Interest,Polygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+sac,SAC.geojson.zip,SAC,Special Area of Conservation,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+spa,SPA.geojson.zip,SPA,Special Protection Area,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+naturereserve,naturereserve.geojson.zip,Nature Reserves,National nature reserves (England/Scotland/Wales) and local nature reserves (England),Polygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+ramsar,RAMSAR.geojson.zip,RAMSAR Sites,Wetlands of international importance especially as waterfowl habitat,https://www.gov.uk/government/organisations/natural-england,,TRUE
+landcover,landcover.tif.zip,Land Cover,Land cover map,Raster,FALSE,EU,https://land.copernicus.eu/pan-european/corine-land-cover,,FALSE
+floodzones,floodzones.geojson.zip,Flood zones,Flood Zones,MultiPolygon,TRUE,EA,https://www.gov.uk/government/organisations/environment-agency,,TRUE
+ancientwoodland,ancientwoodland.geojson.zip,Ancient Woodland,Ancient Woodland,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
