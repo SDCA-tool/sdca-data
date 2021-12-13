@@ -16,3 +16,4 @@ worldheritagesite,worldheritagesite.geojson.zip,World Heritage Sites,UNESCO worl
 publictransport,publictransport.geojson.zip,Public transport stops,Great Britain public transport stops,Point,TRUE,PBCC,https://www.carbon.place,--name=publictransport --layer=publictransport --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=4 --drop-densest-as-needed -rg4 --force,TRUE
 dem,UKdem.tif.zip,UK elevation map,UK elevation map,Raster,FALSE,OS,https://www.ordnancesurvey.co.uk/business-government/products/terrain-50,,FALSE
 desire_lines,desire_lines.geojson.zip,NTEM desire lines,NTEM desire lines,LineString,TRUE,DfT,https://www.dft.gov.uk/,,FALSE
+aonb,aonb.geojson.zip,Areas of Outstanding Natural Beauty,Areas of Outstanding Natural Beauty,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
