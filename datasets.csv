@@ -25,3 +25,4 @@ landcover,landcover.tif.zip,Land Cover,Land cover map,Raster,FALSE,EU,https://la
 floodzones,floodzones.geojson.zip,Flood zones,Flood Zones,MultiPolygon,TRUE,EA,https://www.gov.uk/government/organisations/environment-agency,,TRUE
 ancientwoodland,ancientwoodland.geojson.zip,Ancient Woodland,Ancient Woodland,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
 ramsar,RAMSAR.geojson.zip,RAMSAR Sites,Wetlands of international importance especially as waterfowl habitat,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+materialsites,materialsites.geojson.zip,Material sites,Locations of construction materials sites,Point,TRUE,Jannik Giesekam,,,TRUE
