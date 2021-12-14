@@ -1,0 +1,11 @@
+col_name,data_type,name,description
+id,integer,ID number,
+PlantID,text,Plant ID,
+Site,text,Site name,
+Operator,text,Operating company,
+Emissions_in_tCO2,decimal,Emissions factor,Emissions in tonnes CO2
+Region,text,Region,Region of the UK
+H2_Point,text,Hydrogen location,
+CO2_Point,text,Carbon capture location,
+N_ZIP_Model,text,Industry type,
+Material_Types,text,Material type,
