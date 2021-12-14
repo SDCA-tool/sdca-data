@@ -8,11 +8,11 @@ constituencies,constituencies.geojson.zip,Parliamentary Constituencies,Westminst
 greenbelt,greenbelt.geojson.zip,Greenbelt,Greenbelt boundaries in 2020,MultiPolygon,FALSE,Department for Levelling Up Housing and Communities,http://maps.communities.gov.uk/geoserver/dclg_inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dclg_inspire%3AEngland_Green_Belt_2019-20_WGS84&outputFormat=SHAPE-ZIP,,TRUE
 listedbuildings,listedbuildings.geojson.zip,Listed Buildings,Listing marks and celebrates a building's special architectural and historic interest.,Point,TRUE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
 nationalparks,nationalparks.geojson.zip,National Parks,National Parks of England Scotland and Wales,MultiPolygon,FALSE,,,,TRUE
-parish,parish.geojson.zip,Parishes,Parish boundaries in 2020,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE
+parishes,parishes.geojson.zip,Parishes,Parish boundaries in 2020,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE
 parksandgardens,parksandgardens.geojson.zip,Registered Parks & Gardens,Register of Parks and Gardens of Special Historic Interest in England,MultiPolygon,TRUE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
-scheduledmonument,scheduledmonument.geojson.zip,Scheduled Monuments,Scheduling is our oldest form of heritage protection,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
+scheduledmonuments,scheduledmonuments.geojson.zip,Scheduled Monuments,Scheduling is our oldest form of heritage protection,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
 wards,wards.geojson.zip,Wards,Ward boundaries in 2020,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE
-worldheritagesite,worldheritagesite.geojson.zip,World Heritage Sites,UNESCO world heritage sites,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
+worldheritagesites,worldheritagesites.geojson.zip,World Heritage Sites,UNESCO world heritage sites,MultiPolygon,FALSE,Historic England,https://historicengland.org.uk/listing/the-list/data-downloads/,,TRUE
 publictransport,publictransport.geojson.zip,Public transport stops,Great Britain public transport stops,Point,TRUE,PBCC,https://www.carbon.place,--name=publictransport --layer=publictransport --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=4 --drop-densest-as-needed -rg4 --force,TRUE
 dem,UKdem.tif.zip,UK elevation map,UK elevation map,Raster,FALSE,OS,https://www.ordnancesurvey.co.uk/business-government/products/terrain-50,,FALSE
 desire_lines,desire_lines.geojson.zip,NTEM desire lines,NTEM desire lines,LineString,TRUE,DfT,https://www.dft.gov.uk/,,FALSE
@@ -20,7 +20,7 @@ aonb,aonb.geojson.zip,Areas of Outstanding Natural Beauty,Areas of Outstanding N
 sssi,SSSI.geojson.zip,SSSI,Site of Special Scientific Interest,Polygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
 sac,SAC.geojson.zip,SAC,Special Area of Conservation,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
 spa,SPA.geojson.zip,SPA,Special Protection Area,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
-naturereserve,naturereserve.geojson.zip,Nature Reserves,National nature reserves (England/Scotland/Wales) and local nature reserves (England),Polygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
+naturereserves,naturereserves.geojson.zip,Nature Reserves,National nature reserves (England/Scotland/Wales) and local nature reserves (England),Polygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
 landcover,landcover.tif.zip,Land Cover,Land cover map,Raster,FALSE,EU,https://land.copernicus.eu/pan-european/corine-land-cover,,FALSE
 floodzones,floodzones.geojson.zip,Flood zones,Flood Zones,MultiPolygon,TRUE,EA,https://www.gov.uk/government/organisations/environment-agency,,TRUE
 ancientwoodland,ancientwoodland.geojson.zip,Ancient Woodland,Ancient Woodland,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE
