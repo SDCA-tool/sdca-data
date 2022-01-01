@@ -1,0 +1,33 @@
+{
+	"fill-color": [
+		"match",
+		["get", "SOAC11NM"],
+		"Cosmopolitan student neighbourhoods", "#955123",
+		"Ageing rural neighbourhoods", "#007f42",
+		"Prospering countryside life", "#3ea456",
+		"Remoter communities", "#8aca8e",
+		"Rural traits", "#cfe8d1",
+		"Achieving neighbourhoods", "#00498d",
+		"Asian traits", "#2967ad",
+		"Highly qualified professionals", "#7b99c7",
+		"Households in terraces and flats", "#b9c8e1",
+		"Challenged white communities", "#e3ac20",
+		"Constrained renters", "#edca1a",
+		"Hampered neighbourhoods", "#f6e896",
+		"Hard-pressed flat dwellers", "#fcf5d8",
+		"Ageing urban communities", "#e64c2b",
+		"Aspiring urban households", "#ec773c",
+		"Comfortable neighbourhoods", "#faa460",
+		"Endeavouring social renters", "#fcc9a0",
+		"Primary sector workers", "#fee4ce",
+		"Inner city cosmopolitan", "#f79ff0",
+		"Urban cultural mix", "#6a339a",
+		"Young ethnic communities", "#9f84bd",
+		"Affluent communities", "#576362",
+		"Ageing suburbanites", "#a1a2a1",
+		"Comfortable suburbia", "#e5e4e3",
+		"#ffffff"
+	],
+	"fill-opacity": 0.7,
+	"fill-outline-color": "rgba(0, 0, 0, 0.2)"
+}
