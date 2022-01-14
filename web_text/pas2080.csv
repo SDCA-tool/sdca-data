@@ -1,0 +1,41 @@
+pas2080_code,pas2080_name,pas2080_stage,emission_type,description
+A1,Raw material supply,Product,Capital,"Represents raw material extraction, precursor product processing, and final product
+manufacture, its energy use, and waste management within these processes."
+A2,Transport,Product,Capital,"All movement of materials and goods within the supply
+chain up to the point of final factory gate"
+A3,Manufacture,Product,Capital,"Final product used
+in the infrastructure but also any pre-product elements it might demand. Packaging
+and other material demands that may be necessary should also be included."
+A4,Transport to works site,Construction process,Capital,"Represents transportation (including intermediate storage and distribution) of
+products/materials and construction equipment (e.g. an asphalt paving machine or
+a crane) to the infrastructure construction site from point of production (or point of
+storage in the case of plant and machinery) to site works."
+A5,Construction and installation processes,Construction process,Capital,Represents construction site works activities
+B1,Use,Use,Capital,"Represents the carbon emitted directly from the fabric of
+products and materials once they have been installed as part of infrastructure
+and it is in normal use."
+B2,Maintenance,Use,Capital / Operational,Represents the works activities and new materials for the maintenance of the infrastructure.
+B3,Repair,Use,Capital / Operational,Represents the works activities and new materials for the repair of the infrastructure.
+B4,Replacement,Use,Capital / Operational,Represents the works activities and new materials for the replacement of the infrastructure.
+B5,Refurbishment,Use,Capital / Operational,Represents the works activities and new materials for the refurbishment of the infrastructure during.
+B6,Operational Energy Use,Use,Operational,"Represents the carbon emissions resulting from the energy used by
+infrastructure-integrated technical systems to enable it to deliver its service
+during operation. This might be to provide heating and cooling, ventilation,
+lighting, auxiliary energy for pumps, control and automation."
+B7,Operational Water Use,Use,Operational,"This represents the carbon emissions resulting from the consumption of water
+required by infrastructure to enable it to operate and deliver its service. It will
+include all water used and its treatment (pre- and post-use) during the normal
+operation of the infrastructure."
+B8,Other operational processes,Use,Operational,"Represents other process carbon emissions arising from infrastructure to enable it
+to operate and deliver its service including management of operational waste."
+B9,Users utilisation of infrastructure,Use,User,"Represents the activities associated with user’s utilisation of the infrastructure
+during the use stage."
+C1,Deconstruction,End of life,Capital,"This represents all carbon emissions due to transport to disposal and/or until
+the end-of-waste state of waste materials arising."
+C2,Transport,End of life,Capital,"This represents all carbon emissions due to transport to disposal and/or until
+the end-of-waste state of waste materials arising."
+C3,Waste Processing for recovery,End of life,Capital,"Represents the activities associated with treatment and processing for recovery,
+reuse and recycling of waste materials arising from infrastructure."
+C4,Disposal,End of life,Capital,"The boundary includes the carbon emissions resulting from final disposal of
+demolition materials (neutralisation, incineration with or without utilisation
+of energy, landfilling with or without utilisation of landfill gases, etc.)."
