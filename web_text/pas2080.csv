@@ -1,9 +1,6 @@
-pas2080_code,pas2080_name,pas2080_stage,emission_type,description
-A1,Raw material supply,Product,Capital,"Represents raw material extraction, precursor product processing, and final product
-manufacture, its energy use, and waste management within these processes."
-A2,Transport,Product,Capital,"All movement of materials and goods within the supply
-chain up to the point of final factory gate"
-A3,Manufacture,Product,Capital,"Final product used
+﻿pas2080_code,pas2080_name,pas2080_stage,emission_type,description
+A1-3,"Raw material supply, Transport, & Manufacture",Product,Capital,"Represents raw material extraction, precursor product processing, and final product
+manufacture, its energy use, and waste management within these processes. All movement of materials and goods within the supply chain up to the point of final factory gate. Final product used
 in the infrastructure but also any pre-product elements it might demand. Packaging
 and other material demands that may be necessary should also be included."
 A4,Transport to works site,Construction process,Capital,"Represents transportation (including intermediate storage and distribution) of
