@@ -1,0 +1,7 @@
+infrastructure ,cycle,drive,passenger,walk,rail,bus,lgv,hgv
+motorway,-1,0,0,-1,-10,-10,0,0
+local road,-5,0,0,-5,-5,-15,0,0
+cycleway,0,-10,-10,-5,-5,-5,0,0
+busway,-5,-10,-10,-5,-5,0,0,0
+railway,-2,-15,-15,0,0,-30,0,0
+footway,-5,-1,-1,0,-1,-5,0,0
