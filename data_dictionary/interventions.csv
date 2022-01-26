@@ -1,0 +1,13 @@
+col_name,data_type,name,description
+infrastructure_type,text,Infrastructure Type,High level category for infrastuture e.g. transport/education/healthcare
+mode_class,text,Mode Class,What mode of transport (high level)
+mode,text,Mode,What mode of transport (low level)
+intervention_class,text,Intervention Class,What type of intervention is it? New construction or upgrade
+intervention,text,Intervention Name,Name of the intervention
+intervention_description,text,Intervention Description,Description of the intervention
+geometry,text,Geometry Type,Type of geometry that represents the intervention
+include       ,logical,Include       ,Should the intervention be shown in the UI
+interface,text,Interface Type,Should the intervention be shown in the basic UI or only in the advanced UI
+user_entered_parameters,text,User entered parameters,What additional parmeters must be entered by the user
+elevation_unit,text,Elevation unit,Units forr user entered elevations (e.g. metres)
+elevation_default,text,Elevation default,Default value used for elevation
