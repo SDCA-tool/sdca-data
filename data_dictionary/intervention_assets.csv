@@ -1,0 +1,25 @@
+col_name,data_type,name,description
+intervention,text,intervention,Intervention link to the interventions table
+asset,text,asset,Asset link to the asset_components table
+include,logical,include,should it be included in the calculation
+asset_class,text,asset_class,
+asset_unit,text,asset_unit,
+unit_type,text,unit_type,
+asset_parameters,text,asset_parameters,
+user_entered_parameters,text,user_entered_parameters,
+tool_extracted_parameters,text,tool_extracted_parameters,
+tool_calculated_parameters,text,tool_calculated_parameters,
+area_unit,text,area_unit,
+area_default,decimal,area_default,
+diameter_unit,text,diameter_unit,
+diameter_default,text,diameter_default,
+length_unit,text,length_unit,
+length_default,text,length_default,
+number_unit,text,number_unit,
+number_default,text,number_default,
+span_unit,text,span_unit,
+span_default,decimal,span_default,
+volume_unit,text,volume_unit,
+volume_default,text,volume_default,
+width_unit,text,width_unit,
+width_default,decimal,width_default,

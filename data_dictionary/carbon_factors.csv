@@ -1,0 +1,25 @@
+col_name,data_type,name,description
+material_type,text,material type,type of material
+cf_name,text,carbon factor name,name of the carbon factor link to asset_components table
+carbon_factor,decimal,carbon factor,
+input_unit,text,input unit,unit of the input
+tool,text,tool,
+methodology,text,methodology,
+source_id,text,source_id,
+category,logical,category,
+item,text,item,
+material_product,text,material_product,
+carbon_factor_units,text,carbon factor units,units of the output
+conversion_factor,decimal,conversion factor,
+UID,integer,UID,
+CFID,integer,CFID,
+CF_value_ID,integer,CF_value_ID,
+type_UOM_ID,integer,type_UOM_ID,
+type_unit,text,type_unit,
+include_exclude,text,include_exclude,
+source,integer,source,
+source_version,text,source_version,
+region,integer,region,
+lifecycle_id,text,lifecycle_id,
+lifecycle,integer,lifecycle,
+version,decimal,version,

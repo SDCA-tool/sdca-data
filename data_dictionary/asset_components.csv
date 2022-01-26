@@ -1,0 +1,15 @@
+col_name,data_type,name,description
+works_category_level_1,text,works_category_level_1,
+item,text,item,
+quantity,decimal,quantity,
+cf_name,text,cf_name,Link to carbon_factors table
+input_unit,text,input_unit,
+A5,decimal,A5,
+asset_lifetime,integer,asset_lifetime,
+replacements_during_lifetime,integer,replacements_during_lifetime,
+no_granular_data_A1-A3,decimal,no_granular_data_A1-A3,
+no_granular_data_A4,decimal,no_granular_data_A4,
+no_granular_data_B2,decimal,no_granular_data_B2,
+no_granular_data_B4,decimal,no_granular_data_B4,
+assets_sample_size,integer,assets_sample_size,
+intervention_asset,text,intervention_asset,Link to intervention_assets table
