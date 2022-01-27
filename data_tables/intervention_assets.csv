@@ -1,93 +1,93 @@
-"intervention","asset","include","asset_class","asset_unit","unit_type","asset_parameters","user_entered_parameters","tool_extracted_parameters","tool_calculated_parameters","area_unit","area_default","diameter_unit","diameter_default","length_unit","length_default","number_unit","number_default","span_unit","span_default","volume_unit","volume_default","width_unit","width_default"
-"New high speed route","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"New high speed route","Box Structure","TRUE","CV-US-BS","km","length","length",,"length",,,,,,,,,,,,,,,
-"New high speed route","Building","TRUE","GR-BL","km2","area","area, number",,,"number","km2","0.1",,,,,"number","number=length/50",,,,,,
-"New high speed route","Car Park","TRUE","GR-CP","km2","area","area, number",,,"number","km2","0.1",,,,,"number","number=length/50",,,,,,
-"New high speed route","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",,,,,,,,,,,,,,,
-"New high speed route","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",,,,,,,,,,,,,,,
-"New high speed route","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",,,,,,,,,,,,,,,
-"New high speed route","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"New high speed route","Cutting","TRUE","CV-CE-CT","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"New high speed route","Embankment","TRUE","CV-CE-EM","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"New high speed route","Emergency Access Point","TRUE","OP-AP-EA","number","number","number",,,"number",,,,,,,"number","number=length/50",,,,,,
-"New high speed route","Green Bridge","TRUE","CV-BR-GB","number","number","number, span",,,"number",,,,,,,,,"m","20",,,,
-"New high speed route","Main River","TRUE","WT-RV","km","length","length",,"length",,,,,,,,,,,,,,,
-"New high speed route","Maintenance Access Point","TRUE","OP-AP-MA","number","number","number",,,"number",,,,,,,"number","number=length/50",,,,,,
-"New high speed route","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"New high speed route","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"New high speed route","Overbridge","TRUE","CV-BR-OB","number","number","number, span",,,"number",,,,,,,,,"m","20",,,,
-"New high speed route","Rail Overbridge","TRUE","CV-BR-RB","number","number","number, span",,,"number",,,,,,,,,"m","20",,,,
-"New high speed route","Retained Cutting","TRUE","CV-CE-RC","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"New high speed route","Retained Embankment","TRUE","CV-CE-RE","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"New high speed route","Retaining Wall","TRUE","CV-CE-RW","km","length","length",,"length",,,,,,,,,,,,,,,
-"New high speed route","Shaft","TRUE","CV-US-SH","number","number","number, depth",,"depth","number",,,,,,,"number","number=length/50",,,,,,
-"New high speed route","System railheads","TRUE","CN-SC-SR","number","number","number",,,,,,,,,,"number","2",,,,,,
-"New high speed route","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number",,,,,,,"number","number=2*(Bored Tunnel(number)+Cut & Cover Tunnel(number)+Mined Tunnel(number))",,,,,,
-"New high speed route","Underbridge","TRUE","CV-BR-UB","number","number","number, span",,,"number",,,,,,,,,"m","20",,,,
-"New high speed route","Underpass","TRUE","CV-BR-UP","number","number","number, span",,,"number",,,,,,,,,"m","20",,,,
-"New high speed route","Viaduct","TRUE","CV-BR-VD","m","length","length, width",,"length",,,,,,,,,,,,,,"m","10"
-"New high speed route","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"New high speed route","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"New high speed route","Point and crossings","FALSE",,"number","number","number","number",,,,,,,,,"number",,,,,,,
-"Station - at grade","Building","TRUE","GR-BL","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Station - at grade","Car Park","TRUE","GR-CP","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Station - at grade","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",,,,,,"km",,,,,,,,,
-"Station - at grade","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",,,,,,,,,,,,,,,
-"Station - at grade","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",,,,,,,,,,,,,,,
-"Station - underground","Building","TRUE","GR-BL","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Station - elevated","Building","TRUE","GR-BL","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Track","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"Track","Box Structure","TRUE","CV-US-BS","km","length","length",,"length",,,,,,,,,,,,,,,
-"Track","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",,,,,,,,,,,,,,,
-"Track","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"Track","Cutting","TRUE","CV-CE-CT","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Track","Embankment","TRUE","CV-CE-EM","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Track","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number",,"length","number",,,"km",0.009,,,"number","number=calcTBC",,,,,,
-"Track","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Track","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number",,,,,,,"number","number=2*(Bored Tunnel(number)+Cut & Cover Tunnel(number)+Mined Tunnel(number))",,,,,,
-"Track","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Track","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Track","Point and crossings","FALSE",,,,,,,,,,,,,,,,,,,,,
-"OLE system","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Point and crossings","Point and crossings","FALSE",,"number","number","number","number",,,,,,,,,"number",,,,,,,
-"Bridge","Bridge","TRUE",,"number","number","number, span","number","span",,,,,,,,,,"m","20",,,,
-"Bridge","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Bridge","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Overbridge","Overbridge","TRUE","CV-BR-OB","number","number","number, span","number",,,,,,,,,,,"m","20",,,,
-"Overbridge","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Overbridge","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Underbridge","Underbridge","TRUE","CV-BR-UB","number","number","number, span","number",,,,,,,,,,,"m","20",,,,
-"Underbridge","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Underbridge","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Green bridge","Green Bridge","TRUE","CV-BR-GB","number","number","number, span","number",,,,,,,,,,,"m","20",,,,
-"Underpass","Underpass","TRUE","CV-BR-UP","number","number","number, span","number",,,,,,,,,,,"m","20",,,,
-"Viaduct","Viaduct","TRUE","CV-BR-VD","m","length","length, width",,"length",,,,,,,,,,,,,,"m","10"
-"Bored_Tunnel","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number","number","length",,,,"km",0.009,,,"number","1",,,,,,
-"Bored_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Bored_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number",,,,,,,"number","number=2*(Bored Tunnel(number)+Cut & Cover Tunnel(number)+Mined Tunnel(number))",,,,,,
-"Bored_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Bored_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Cut_cover_Tunnel","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number","number","length",,,,"km",0.009,,,"number","1",,,,,,
-"Cut_cover_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Cut_cover_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number",,,,,,,"number","number=2*(Bored Tunnel(number)+Cut & Cover Tunnel(number)+Mined Tunnel(number))",,,,,,
-"Cut_cover_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Cut_cover_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Mined_Tunnel","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number","number","length",,,,"km",0.009,,,"number","1",,,,,,
-"Mined_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume",,,,,,,,,,,"m3","volume=calcTBC",,
-"Mined_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number",,,,,,,"number","number=2*(Bored Tunnel(number)+Cut & Cover Tunnel(number)+Mined Tunnel(number))",,,,,,
-"Mined_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",,,,,,,,,,,,,,"m","19"
-"Mined_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Rail maintenance depot","Building","TRUE","GR-BL","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Rail maintenance depot","Car Park","TRUE","GR-CP","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Rail maintenance depot","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",,,,,,,,,,,,,,,
-"Rail maintenance depot","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,,"number",,,,,,,"number","1",,,,,,
-"Rail maintenance depot","Track (double)","TRUE",,"km","length","length, width, number",,"length","number",,,,,,,"number","number=width_site/8.5",,,,,"m","19"
-"Rail maintenance depot","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Rail maintenance depot","Point and crossings","FALSE",,"number","number","number","number",,,,,,,,,"number",,,,,,,
-"Rail freight terminal","Building","TRUE","GR-BL","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Rail freight terminal","Car Park","TRUE","GR-CP","km2","area","area, number","number",,,"km2","0.1",,,,,"number","1",,,,,,
-"Rail freight terminal","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",,,,,,,,,,,,,,,
-"Rail freight terminal","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",,,,,,,,,,,,,,,
-"Rail freight terminal","Track (double)","TRUE",,"km","length","length, width, number",,"length","number",,,,,,,"number","number=width_site/8.5",,,,,"m","19"
-"Rail freight terminal","OLE","TRUE",,"km","length","length, number",,"length","number",,,,,,,"number","number=length/50",,,,,,
-"Rail freight terminal","Point and crossings","FALSE",,"number","number","number","number",,,,,,,,,"number",,,,,,,
+"intervention","asset","include","asset_class","asset_unit","unit_type","asset_parameters","user_entered_parameters","tool_extracted_parameters","tool_calculated_parameters"
+"New high speed route","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number",,"length","number"
+"New high speed route","Box Structure","TRUE","CV-US-BS","km","length","length",,"length",
+"New high speed route","Building","TRUE","GR-BL","km2","area","area, number",,,"number"
+"New high speed route","Car Park","TRUE","GR-CP","km2","area","area, number",,,"number"
+"New high speed route","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",
+"New high speed route","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",
+"New high speed route","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",
+"New high speed route","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number",,"length","number"
+"New high speed route","Cutting","TRUE","CV-CE-CT","km","length","length, volume",,"length","volume"
+"New high speed route","Embankment","TRUE","CV-CE-EM","km","length","length, volume",,"length","volume"
+"New high speed route","Emergency Access Point","TRUE","OP-AP-EA","number","number","number",,,"number"
+"New high speed route","Green Bridge","TRUE","CV-BR-GB","number","number","number, span",,,"number"
+"New high speed route","Main River","TRUE","WT-RV","km","length","length",,"length",
+"New high speed route","Maintenance Access Point","TRUE","OP-AP-MA","number","number","number",,,"number"
+"New high speed route","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number",,"length","number"
+"New high speed route","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume"
+"New high speed route","Overbridge","TRUE","CV-BR-OB","number","number","number, span",,,"number"
+"New high speed route","Rail Overbridge","TRUE","CV-BR-RB","number","number","number, span",,,"number"
+"New high speed route","Retained Cutting","TRUE","CV-CE-RC","km","length","length, volume",,"length","volume"
+"New high speed route","Retained Embankment","TRUE","CV-CE-RE","km","length","length, volume",,"length","volume"
+"New high speed route","Retaining Wall","TRUE","CV-CE-RW","km","length","length",,"length",
+"New high speed route","Shaft","TRUE","CV-US-SH","number","number","number, depth",,"depth","number"
+"New high speed route","System railheads","TRUE","CN-SC-SR","number","number","number",,,
+"New high speed route","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number"
+"New high speed route","Underbridge","TRUE","CV-BR-UB","number","number","number, span",,,"number"
+"New high speed route","Underpass","TRUE","CV-BR-UP","number","number","number, span",,,"number"
+"New high speed route","Viaduct","TRUE","CV-BR-VD","m","length","length, width",,"length",
+"New high speed route","Track (double)","TRUE",,"km","length","length, width",,"length",
+"New high speed route","OLE","TRUE",,"km","length","length, number",,"length","number"
+"New high speed route","Point and crossings","FALSE",,"number","number","number","number",,
+"Station - at grade","Building","TRUE","GR-BL","km2","area","area, number","number",,
+"Station - at grade","Car Park","TRUE","GR-CP","km2","area","area, number","number",,
+"Station - at grade","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",
+"Station - at grade","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",
+"Station - at grade","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",
+"Station - underground","Building","TRUE","GR-BL","km2","area","area, number","number",,
+"Station - elevated","Building","TRUE","GR-BL","km2","area","area, number","number",,
+"Track","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number",,"length","number"
+"Track","Box Structure","TRUE","CV-US-BS","km","length","length",,"length",
+"Track","Culvert","TRUE","CV-BR-CV","number","number","number",,"number",
+"Track","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number",,"length","number"
+"Track","Cutting","TRUE","CV-CE-CT","km","length","length, volume",,"length","volume"
+"Track","Embankment","TRUE","CV-CE-EM","km","length","length, volume",,"length","volume"
+"Track","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number",,"length","number"
+"Track","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume"
+"Track","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number"
+"Track","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Track","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Track","Point and crossings","FALSE",,,,,,,
+"OLE system","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Point and crossings","Point and crossings","FALSE",,"number","number","number","number",,
+"Bridge","Bridge","TRUE",,"number","number","number, span","number","span",
+"Bridge","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Bridge","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Overbridge","Overbridge","TRUE","CV-BR-OB","number","number","number, span","number",,
+"Overbridge","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Overbridge","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Underbridge","Underbridge","TRUE","CV-BR-UB","number","number","number, span","number",,
+"Underbridge","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Underbridge","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Green bridge","Green Bridge","TRUE","CV-BR-GB","number","number","number, span","number",,
+"Underpass","Underpass","TRUE","CV-BR-UP","number","number","number, span","number",,
+"Viaduct","Viaduct","TRUE","CV-BR-VD","m","length","length, width",,"length",
+"Bored_Tunnel","Bored Tunnel","TRUE","CV-US-TN-BR","km","length","length, diameter, number","number","length",
+"Bored_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume"
+"Bored_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number"
+"Bored_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Bored_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Cut_cover_Tunnel","Cut & Cover Tunnel","TRUE","CV-US-TN-CC","km","length","length, diameter, number","number","length",
+"Cut_cover_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume"
+"Cut_cover_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number"
+"Cut_cover_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Cut_cover_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Mined_Tunnel","Mined Tunnel","TRUE","Mined Tunnel","km","length","length, diameter, number","number","length",
+"Mined_Tunnel","Mitigation Earthworks","TRUE","CV-CE-ME","km","length","length, volume",,"length","volume"
+"Mined_Tunnel","Tunnel Portal","TRUE","CV-US-TN-PR","number","number","number",,,"number"
+"Mined_Tunnel","Track (double)","TRUE",,"km","length","length, width",,"length",
+"Mined_Tunnel","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Rail maintenance depot","Building","TRUE","GR-BL","km2","area","area, number","number",,
+"Rail maintenance depot","Car Park","TRUE","GR-CP","km2","area","area, number","number",,
+"Rail maintenance depot","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",
+"Rail maintenance depot","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,,"number"
+"Rail maintenance depot","Track (double)","TRUE",,"km","length","length, width, number",,"length","number"
+"Rail maintenance depot","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Rail maintenance depot","Point and crossings","FALSE",,"number","number","number","number",,
+"Rail freight terminal","Building","TRUE","GR-BL","km2","area","area, number","number",,
+"Rail freight terminal","Car Park","TRUE","GR-CP","km2","area","area, number","number",,
+"Rail freight terminal","Carriageway","TRUE","CV-HW-CW","km","length","length",,"length",
+"Rail freight terminal","Circulation Feature","TRUE","CV-HW-CF","number","number","number",,"number",
+"Rail freight terminal","Track (double)","TRUE",,"km","length","length, width, number",,"length","number"
+"Rail freight terminal","OLE","TRUE",,"km","length","length, number",,"length","number"
+"Rail freight terminal","Point and crossings","FALSE",,"number","number","number","number",,
