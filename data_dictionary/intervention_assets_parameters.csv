@@ -1,0 +1,5 @@
+col_name,data_type,name,description
+asset,text,asset,Asset link to the asset_components table
+parameter,text,parameter,"Paramter type e.g. area, number, diameter"
+unit,text,unit,Units of paramter
+default,decimal,default,Default value

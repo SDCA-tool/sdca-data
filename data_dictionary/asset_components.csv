@@ -1,4 +1,5 @@
 col_name,data_type,name,description
+intervention_asset,text,intervention_asset,Link to intervention_assets table
 works_category_level_1,text,works_category_level_1,
 item,text,item,
 quantity,decimal,quantity,
@@ -11,5 +12,3 @@ no_granular_data_A1-A3,decimal,no_granular_data_A1-A3,
 no_granular_data_A4,decimal,no_granular_data_A4,
 no_granular_data_B2,decimal,no_granular_data_B2,
 no_granular_data_B4,decimal,no_granular_data_B4,
-assets_sample_size,integer,assets_sample_size,
-intervention_asset,text,intervention_asset,Link to intervention_assets table
