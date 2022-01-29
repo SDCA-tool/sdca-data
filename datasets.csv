@@ -25,4 +25,4 @@ ancientwoodland,ancientwoodland.geojson.zip,Ancient Woodland,Ancient Woodland,Mu
 ramsar,RAMSAR.geojson.zip,RAMSAR Sites,Wetlands of international importance especially as waterfowl habitat,MultiPolygon,FALSE,Natural England,https://www.gov.uk/government/organisations/natural-england,,TRUE,FALSE
 materialsites,materialsites.geojson.zip,Material sites,Locations of construction materials sites,Point,TRUE,Jannik Giesekam,,,TRUE,TRUE
 bedrock,bedrock.geojson.zip,Bedrock Geology,Bedrock geology,MultiPolygon,TRUE,BGS,,,TRUE,TRUE
-superficial,superficial.gejson.zip,Superficial Geology,Superficial Geology,MultiPolygon,TRUE,BGS,,,TRUE,TRUE
+superficial,superficial.geojson.zip,Superficial Geology,Superficial Geology,MultiPolygon,TRUE,BGS,,,TRUE,TRUE
