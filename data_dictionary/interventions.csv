@@ -3,7 +3,8 @@ infrastructure_type,text,Infrastructure Type,High level category for infrastutur
 mode_class,text,Mode Class,What mode of transport (high level)
 mode,text,Mode,What mode of transport (low level)
 intervention_class,text,Intervention Class,What type of intervention is it? New construction or upgrade
-intervention,text,Intervention Name,Name of the intervention
+intervention,text,Intervention ID,Unique id for intervention
+intervention_name,text,Intervention Name,Name of the intervention
 intervention_description,text,Intervention Description,Description of the intervention
 geometry,text,Geometry Type,Type of geometry that represents the intervention
 include       ,logical,Include       ,Should the intervention be shown in the UI

@@ -1,6 +1,7 @@
 col_name,data_type,name,description
-intervention,text,intervention,Intervention link to the interventions table
-asset,text,asset,Asset link to the asset_components table
+intervention,text,intervention ID,Intervention link to the interventions table
+asset,text,asset ID,Asset link to the components table
+asset_name,text,asset name,Name of the asset
 include,logical,include,should it be included in the calculation
 asset_class,text,asset_class,
 asset_unit,text,asset_unit,

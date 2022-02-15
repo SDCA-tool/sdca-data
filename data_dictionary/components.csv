@@ -1,5 +1,5 @@
 col_name,data_type,name,description
-intervention_asset,text,intervention_asset,Link to intervention_assets table
+asset,text,intervention_asset,Link to assets table
 works_category_level_1,text,works_category_level_1,
 item,text,item,
 quantity,decimal,quantity,
