@@ -1,0 +1,8 @@
+col_name,data_type,name,description
+Zone_Code,text,Zone ID,Zone ID same as MSOA code in England and Wales
+cycle,integer,Cycle trips,Number of daily cycle trips starting or ending in this zone
+driver,integer,Car driver trips,Number of daily car driver trips starting or ending in this zone
+passenger,integer,Car passenger trips,Number of daily car passenger trips starting or ending in this zone
+walk,integer,Walking trips,Number of daily walking trips starting or ending in this zone
+rail,integer,Rail trips,Number of daily rail trips starting or ending in this zone
+bus,integer,Bus trips,Number of daily bus trips starting or ending in this zone
