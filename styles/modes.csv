@@ -1,4 +1,4 @@
-mode,color,lineWidth
+mode,line-color,line-width
 Rail,#6f72af,6
 High speed rail,#6f72af,8
 Light rail,#5694ca,4
