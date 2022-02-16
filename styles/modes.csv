@@ -1,0 +1,9 @@
+mode,color,lineWidth
+Rail,#6f72af,6
+High speed rail,#6f72af,8
+Light rail,#5694ca,4
+Bicycle,#33cc33,4
+Walking,#663300,3
+Major road,#999999,8
+Minor road,#999999,5
+Bus,#6f72af,4
