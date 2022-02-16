@@ -24,8 +24,6 @@
 "car_park","area","km2",0.1
 "car_park","number","number",1
 "hs_carriageway","length","km",
-"hs","area","km2",0.1
-"hs","number","number",1
 "hs_building_elevated","area","km2",0.1
 "hs_building_elevated","number","number",1
 "hs_pnc","number","number",

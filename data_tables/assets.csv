@@ -2,7 +2,7 @@
 "hs_line_grade","hs_emergency_access_point","Emergency Access Point",FALSE,"OP-AP-EA","number","number","number",,,"number"
 "hs_line_grade","hs_maintenance_access_point","Maintenance Access Point",FALSE,"OP-AP-MA","number","number","number",,,"number"
 "hs_line_grade","hs_mitigation_earthworks","Mitigation Earthworks",TRUE,"CV-CE-ME","m","length","length, volume",,"length","volume"
-"hs_line_grade","hs_system_railheads","System railheads",TRUE,"CN-SC-SR","number","number","number",,,
+"hs_line_grade","hs_system_railheads","System railheads",FALSE,"CN-SC-SR","number","number","number",,,
 "hs_line_grade","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_grade","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_line_grade","hs_pce","Point and crossings",FALSE,,"number","number","number","number",,
@@ -10,7 +10,7 @@
 "hs_line_cutting","hs_emergency_access_point","Emergency Access Point",FALSE,"OP-AP-EA","number","number","number",,,"number"
 "hs_line_cutting","hs_maintenance_access_point","Maintenance Access Point",FALSE,"OP-AP-MA","number","number","number",,,"number"
 "hs_line_cutting","hs_mitigation_earthworks","Mitigation Earthworks",TRUE,"CV-CE-ME","m","length","length, volume",,"length","volume"
-"hs_line_cutting","hs_system_railheads","System railheads",TRUE,"CN-SC-SR","number","number","number",,,
+"hs_line_cutting","hs_system_railheads","System railheads",FALSE,"CN-SC-SR","number","number","number",,,
 "hs_line_cutting","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_cutting","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_line_cutting","hs_pce","Point and crossings",FALSE,,"number","number","number","number",,
@@ -18,12 +18,12 @@
 "hs_line_embankment","hs_emergency_access_point","Emergency Access Point",FALSE,"OP-AP-EA","number","number","number",,,"number"
 "hs_line_embankment","hs_maintenance_access_point","Maintenance Access Point",FALSE,"OP-AP-MA","number","number","number",,,"number"
 "hs_line_embankment","hs_mitigation_earthworks","Mitigation Earthworks",TRUE,"CV-CE-ME","m","length","length, volume",,"length","volume"
-"hs_line_embankment","hs_system_railheads","System railheads",TRUE,"CN-SC-SR","number","number","number",,,
+"hs_line_embankment","hs_system_railheads","System railheads",FALSE,"CN-SC-SR","number","number","number",,,
 "hs_line_embankment","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_embankment","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_line_embankment","hs_pce","Point and crossings",FALSE,,"number","number","number","number",,
 "hs_line_embankment","hs_embankment","Embankment",TRUE,"CV-CE-EM","m","length","length, volume",,"length","volume"
-"hs_line_bridge","hs_bridge","Bridge",TRUE,,"number","number","number, span","number","span",
+"hs_line_bridge","hs_bridge","Bridge",FALSE,,"number","number","number, span","number","span",
 "hs_line_bridge","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_bridge","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_line_viaduct","hs_viaduct","Viaduct",TRUE,"CV-BR-VD","m","length","length, width, area",,"length","area"
@@ -44,13 +44,13 @@
 "hs_line_tunnel_mined","hs_tunnel_portal","Tunnel Portal",TRUE,"CV-US-TN-PR","number","number","number",,,"number"
 "hs_line_tunnel_mined","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_tunnel_mined","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
-"hs_station_grade","hs_building_grade","Building",TRUE,"GR-BL","m2","area","area, number","number",,
-"hs_station_grade","car_park","Car Park",TRUE,"GR-CP","m2","area","area, number","number",,
-"hs_station_grade","hs_carriageway","Carriageway",TRUE,"CV-HW-CW","m","length","length",,"length",
-"hs_station_grade","hs_circulation_feature","Circulation Feature",TRUE,"CV-HW-CF","number","number","number",,"number",
+"hs_station_grade","hs_building_grade","Building",FALSE,"GR-BL","m2","area","area, number","number",,
+"hs_station_grade","car_park","Car Park",FALSE,"GR-CP","m2","area","area, number","number",,
+"hs_station_grade","hs_carriageway","Carriageway",FALSE,"CV-HW-CW","m","length","length",,"length",
+"hs_station_grade","hs_circulation_feature","Circulation Feature",FALSE,"CV-HW-CF","number","number","number",,"number",
 "hs_station_grade","hs_culvert","Culvert",TRUE,"CV-BR-CV","number","number","number",,"number",
-"hs_station_underground","hs","Building",TRUE,"GR-BL","m2","area","area, number","number",,
-"hs_station_underground","hs_building_underground",,,,,,,,,
+"hs_station_underground","hs_building_grade","Building",FALSE,"GR-BL","m2","area","area, number","number",,
+"hs_station_underground","hs_building_underground",,FALSE,,,,,,,
 "hs_station_elevated","hs_building_elevated","Building",TRUE,"GR-BL","m2","area","area, number","number",,
 "hs_track","hs_mitigation_earthworks","Mitigation Earthworks",TRUE,"CV-CE-ME","m","length","length, volume",,"length","volume"
 "hs_track","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
