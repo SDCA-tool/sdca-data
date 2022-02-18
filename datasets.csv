@@ -25,7 +25,7 @@ superficial_raster,superficial.tif.zip,Superficial Geology,Superficial Geology,R
 ntem,ntem.geojson.zip,NTEM Zones,Zones used in the National Trip End Model,MultiPolygon,TRUE,DFT,https://data.gov.uk/dataset/11bc7aaf-ddf6-4133-a91d-84e6f20a663e/national-trip-end-model-ntem,,TRUE,FALSE,Transport data
 publictransport,publictransport.geojson.zip,Public transport stops,Great Britain public transport stops,Point,TRUE,PBCC,https://www.carbon.place,--name=publictransport --layer=publictransport --attribution=MALCOLMMORGAN --maximum-zoom=13 --minimum-zoom=4 --drop-densest-as-needed -rg4 --force,TRUE,FALSE,Transport data
 desire_lines,desire_lines.geojson.zip,NTEM desire lines,NTEM desire lines,LineString,TRUE,DfT,https://www.dft.gov.uk/,,FALSE,TRUE,Transport data
-la,la.geojson.zip,Local Authoirty boundaries,Boundaries of Lower Tier Local Authorities,MultiPolygon,FALSE,,,,TRUE,FALSE,Boundaries
+la,la.geojson.zip,Local Authority boundaries,Boundaries of Lower Tier Local Authorities,MultiPolygon,FALSE,,,,TRUE,FALSE,Boundaries
 constituencies,constituencies.geojson.zip,Parliamentary Constituencies,Westminster parliamentary constituencies,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE,FALSE,Boundaries
 parishes,parishes.geojson.zip,Parishes,Parish boundaries in 2020,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE,FALSE,Boundaries
 wards,wards.geojson.zip,Wards,Ward boundaries in 2020,MultiPolygon,FALSE,MALCOLMMORGAN,,,TRUE,FALSE,Boundaries
