@@ -2,6 +2,7 @@
 "transport","Rail","Rail","New construction","rail_overbridge_flyover_road","Overbridge - flyover road","New road flyover","line",TRUE,"basic",,,
 "transport","Rail","Rail","New construction","rail_overbridge_a_road","Overbridge - A road","New A road overbridge","line",TRUE,"basic",,,
 "transport","Rail","Rail","New construction","rail_overbridge_b_road","Overbridge - B road","New B road overbridge","line",TRUE,"basic",,,
+"transport","Rail","Rail","New construction","rail_overbridge_road","Overbridge - typical road","New typical road overbridge","line",TRUE,"basic",,,
 "transport","Rail","Rail","New construction","rail_overbridge_bridleway","Overbridge - Bridleway","New bridleway overbridge","line",TRUE,"basic",,,
 "transport","Rail","Rail","New construction","rail_overbridge_footpath","Overbridge - Footpath","New footpath overbridge","line",TRUE,"basic",,,
 "transport","Rail","Rail","New construction","rail_overbridge_rail","Overbridge - rail","New rail overbridge","line",TRUE,"basic",,,
