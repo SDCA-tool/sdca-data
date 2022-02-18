@@ -1,4 +1,4 @@
-"asset","works_category_level_1","item","quantity","cf_name","input_unit","A5","asset_lifetime","replacements_during_lifetime","no_granular_data_A1-A3","no_granular_data_A4","no_granular_data_B2","no_granular_data_B4"
+"asset","works_category_level_1","item","quantity","cf_name","input_unit","A5","asset_lifetime","replacements_during_lifetime","no_granular_data_A1_A3","no_granular_data_A4","no_granular_data_B2","no_granular_data_B4"
 "hs_tunnel_portal","Other","HS_tunnel_portal","       1.000000","no_granular_data","no_granular_data"," 1942.000000",,,"9250","1665",,
 "hs_bored_tunnel","Other","HS_bored_tunnel","       0.001000","no_granular_data","asset_unit","    0.000081",,,"0.27","0.22",,
 "hs_mined_tunnel","Other","HS_mined_tunnel","       0.001000","no_granular_data","asset_unit",,,,"175","34",,
