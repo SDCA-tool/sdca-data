@@ -22,7 +22,7 @@
 "transport","Rail","High speed rail","New construction","hs_station_elevated","Station - elevated","Additional station above grade","point",TRUE,"basic","elevation","m",4.5
 "transport","Rail","High speed rail","Renewal","hs_ole","Overhead line equipment (OLE) renewal","High speed overhead line renewal","line",TRUE,"advanced",,,
 "transport","Active travel","Bicycle","New construction","cycle_lane_painted","New painted cycle lane","New painted cycle lane including associated surfacing","line",TRUE,"basic",,,
-"transport","Active travel","Bicycle","New construction","cycle_lane_stepped","New stepped cyle lane","New stepped cyle lane including associated surfacing","line",TRUE,"basic",,,
+"transport","Active travel","Bicycle","New construction","cycle_lane_stepped","New stepped cycle lane","New stepped cycle lane including associated surfacing","line",TRUE,"basic",,,
 "transport","Active travel","Bicycle","New construction","cycle_lane_segregated","New segregated cycle lane","New segregated cycle lane including earthworks and drainage","line",TRUE,"basic",,,
 "transport","Active travel","Bicycle","New construction","cycle_track_rural","New rural cycle track","New cycle track through a rural location","line",TRUE,"basic",,,
 "transport","Active travel","Bicycle","New construction","cycle_track_urban","New urban cycle track","New cycle track through a urban location e.g. park","line",TRUE,"basic",,,
