@@ -1,0 +1,11 @@
+{
+	"fill-color": [
+		"match",
+		["get", "type"],
+		2, "lightblue",
+		3, "darkblue",
+		"#ccc"
+	],
+	"fill-opacity": 0.7,
+	"fill-outline-color": "rgba(0, 0, 0, 0.2)"
+}
