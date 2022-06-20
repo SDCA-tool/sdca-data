@@ -1,0 +1,18 @@
+{
+	"circle-radius": {
+		"base": 2.5,
+		"stops": [
+			[8, 3],
+			[22, 180]
+		]
+	},
+	"circle-stroke-width": 1,
+	"circle-color": [
+		"match",
+		["get", "Grade"],
+		"I", "gold",
+		"II", "goldenrod",
+		"II*", "#cccc00",
+		"#cccccc"
+	]
+}
