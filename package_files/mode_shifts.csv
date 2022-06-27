@@ -1,121 +1,121 @@
-"mode","intervention_class","travel_mode","modeshift_low","modeshift_average","modeshift_high","induceddemand_low","induceddemand_average","induceddemand_high"
-"High speed rail","New construction","walk",0,0,0,0,0,0
-"High speed rail","New construction","cycle",0,0,0,0,0,0
-"High speed rail","New construction","drive",0.06,0.11,0.34,0.11,0.2,0.5
-"High speed rail","New construction","passenger",0.06,0.11,0.34,0.11,0.2,0.5
-"High speed rail","New construction","rail",0,0,0,0.11,0.2,0.5
-"High speed rail","New construction","bus",0,0,0,0,0,0
-"High speed rail","New construction","lgv",0,0,0,0,0,0
-"High speed rail","New construction","hgv",0,0,0,0,0,0
-"Rail","New construction","walk",0,0,0,0,0,0
-"Rail","New construction","cycle",0,0,0,0,0,0
-"Rail","New construction","drive",0,0,0,0,0,0
-"Rail","New construction","passenger",0,0,0,0,0,0
-"Rail","New construction","rail",0,0,0,0,0,0
-"Rail","New construction","bus",0,0,0,0,0,0
-"Rail","New construction","lgv",0,0,0,0,0,0
-"Rail","New construction","hgv",0,0,0,0,0,0
-"Rail","Upgrade","walk",0,0,0,0,0,0
-"Rail","Upgrade","cycle",0,0,0,0,0,0
-"Rail","Upgrade","drive",0,0,0,0,0,0
-"Rail","Upgrade","passenger",0,0,0,0,0,0
-"Rail","Upgrade","rail",0,0,0,0,0,0
-"Rail","Upgrade","bus",0,0,0,0,0,0
-"Rail","Upgrade","lgv",0,0,0,0,0,0
-"Rail","Upgrade","hgv",0,0,0,0,0,0
-"Light Rail","New construction","walk",0,0,0,0,0,0
-"Light Rail","New construction","cycle",0,0,0,0,0,0
-"Light Rail","New construction","drive",0,0,0,0,0,0
-"Light Rail","New construction","passenger",0,0,0,0,0,0
-"Light Rail","New construction","rail",0,0,0,0,0,0
-"Light Rail","New construction","bus",0,0,0,0,0,0
-"Light Rail","New construction","lgv",0,0,0,0,0,0
-"Light Rail","New construction","hgv",0,0,0,0,0,0
-"Light Rail","Upgrade","walk",0,0,0,0,0,0
-"Light Rail","Upgrade","cycle",0,0,0,0,0,0
-"Light Rail","Upgrade","drive",0,0,0,0,0,0
-"Light Rail","Upgrade","passenger",0,0,0,0,0,0
-"Light Rail","Upgrade","rail",0,0,0,0,0,0
-"Light Rail","Upgrade","bus",0,0,0,0,0,0
-"Light Rail","Upgrade","lgv",0,0,0,0,0,0
-"Light Rail","Upgrade","hgv",0,0,0,0,0,0
-"Bicycle","New construction","walk",0.16,0.175,0.19,0.069,0.1195,0.17
-"Bicycle","New construction","cycle",0,0,0,0.069,0.1195,0.17
-"Bicycle","New construction","drive",0.11,0.274,0.438,0.069,0.1195,0.17
-"Bicycle","New construction","passenger",0.11,0.274,0.438,0.069,0.1195,0.17
-"Bicycle","New construction","rail",0.166,0.213,0.26,0.069,0.1195,0.17
-"Bicycle","New construction","bus",0.16,0.175,0.19,0.069,0.1195,0.17
-"Bicycle","New construction","lgv",0,0,0,0,0,0
-"Bicycle","New construction","hgv",0,0,0,0,0,0
-"Bicycle","Upgrade","walk",0,0,0,0,0,0
-"Bicycle","Upgrade","cycle",0,0,0,0,0,0
-"Bicycle","Upgrade","drive",0,0,0,0,0,0
-"Bicycle","Upgrade","passenger",0,0,0,0,0,0
-"Bicycle","Upgrade","rail",0,0,0,0,0,0
-"Bicycle","Upgrade","bus",0,0,0,0,0,0
-"Bicycle","Upgrade","lgv",0,0,0,0,0,0
-"Bicycle","Upgrade","hgv",0,0,0,0,0,0
-"Bus","New construction","walk",0,0.14,0,0,0.19,0
-"Bus","New construction","cycle",0,0.04,0,0,0.19,0
-"Bus","New construction","drive",0,0.36,0,0,0.19,0
-"Bus","New construction","passenger",0,0.36,0,0,0.19,0
-"Bus","New construction","rail",0,0.11,0,0,0.19,0
-"Bus","New construction","bus",0,0,0,0,0.19,0
-"Bus","New construction","lgv",0,0,0,0,0,0
-"Bus","New construction","hgv",0,0,0,0,0,0
-"Bus","Upgrade","walk",0,0,0,0,0,0
-"Bus","Upgrade","cycle",0,0,0,0,0,0
-"Bus","Upgrade","drive",0,0,0,0,0,0
-"Bus","Upgrade","passenger",0,0,0,0,0,0
-"Bus","Upgrade","rail",0,0,0,0,0,0
-"Bus","Upgrade","bus",0,0,0,0,0,0
-"Bus","Upgrade","lgv",0,0,0,0,0,0
-"Bus","Upgrade","hgv",0,0,0,0,0,0
-"Walking","New construction","walk",0,0,0,0,0,0
-"Walking","New construction","cycle",0,0,0,0,0,0
-"Walking","New construction","drive",0,0,0,0,0,0
-"Walking","New construction","passenger",0,0,0,0,0,0
-"Walking","New construction","rail",0,0,0,0,0,0
-"Walking","New construction","bus",0,0,0,0,0,0
-"Walking","New construction","lgv",0,0,0,0,0,0
-"Walking","New construction","hgv",0,0,0,0,0,0
-"Walking","Upgrade","walk",0,0,0,0,0,0
-"Walking","Upgrade","cycle",0,0,0,0,0,0
-"Walking","Upgrade","drive",0,0,0,0,0,0
-"Walking","Upgrade","passenger",0,0,0,0,0,0
-"Walking","Upgrade","rail",0,0,0,0,0,0
-"Walking","Upgrade","bus",0,0,0,0,0,0
-"Walking","Upgrade","lgv",0,0,0,0,0,0
-"Walking","Upgrade","hgv",0,0,0,0,0,0
-"Road - Minor","New construction","walk",0,0,0,0,0,0
-"Road - Minor","New construction","cycle",0,0,0,0,0,0
-"Road - Minor","New construction","drive",0,0,0,0,0,0
-"Road - Minor","New construction","passenger",0,0,0,0,0,0
-"Road - Minor","New construction","rail",0,0,0,0,0,0
-"Road - Minor","New construction","bus",0,0,0,0,0,0
-"Road - Minor","New construction","lgv",0,0,0,0,0,0
-"Road - Minor","New construction","hgv",0,0,0,0,0,0
-"Road - Minor","Upgrade","walk",0,0,0,0,0,0
-"Road - Minor","Upgrade","cycle",0,0,0,0,0,0
-"Road - Minor","Upgrade","drive",0,0,0,0,0,0
-"Road - Minor","Upgrade","passenger",0,0,0,0,0,0
-"Road - Minor","Upgrade","rail",0,0,0,0,0,0
-"Road - Minor","Upgrade","bus",0,0,0,0,0,0
-"Road - Minor","Upgrade","lgv",0,0,0,0,0,0
-"Road - Minor","Upgrade","hgv",0,0,0,0,0,0
-"Road - Major","New construction","walk",0,0,0,0,0,0
-"Road - Major","New construction","cycle",0,0,0,0,0,0
-"Road - Major","New construction","drive",0,0,0,0,0,0
-"Road - Major","New construction","passenger",0,0,0,0,0,0
-"Road - Major","New construction","rail",0,0,0,0,0,0
-"Road - Major","New construction","bus",0,0,0,0,0,0
-"Road - Major","New construction","lgv",0,0,0,0,0,0
-"Road - Major","New construction","hgv",0,0,0,0,0,0
-"Road - Major","Upgrade","walk",0,0,0,0.09,0.16,1.78
-"Road - Major","Upgrade","cycle",0,0,0,0,0,0
-"Road - Major","Upgrade","drive",0,0,0,0,0,0
-"Road - Major","Upgrade","passenger",0,0,0,0,0,0
-"Road - Major","Upgrade","rail",0,0,0,0,0,0
-"Road - Major","Upgrade","bus",0,0,0,0,0,0
-"Road - Major","Upgrade","lgv",0,0,0,0,0,0
-"Road - Major","Upgrade","hgv",0,0,0,0,0,0
+mode,intervention_class,travel_mode,modeshift_low,modeshift_average,modeshift_high,induceddemand_low,induceddemand_average,induceddemand_high
+High speed rail,New construction,walk,0,0,0,0,0,0
+High speed rail,New construction,cycle,0,0,0,0,0,0
+High speed rail,New construction,drive,0.06,0.11,0.34,0.11,0.2,0.5
+High speed rail,New construction,passenger,0.06,0.11,0.34,0.11,0.2,0.5
+High speed rail,New construction,rail,0,0,0,0.11,0.2,0.5
+High speed rail,New construction,bus,0,0,0,0,0,0
+High speed rail,New construction,lgv,0,0,0,0,0,0
+High speed rail,New construction,hgv,0,0,0,0,0,0
+Rail,New construction,walk,0,0,0,0,0,0
+Rail,New construction,cycle,0,0,0,0,0,0
+Rail,New construction,drive,0,0,0,0,0,0
+Rail,New construction,passenger,0,0,0,0,0,0
+Rail,New construction,rail,0,0,0,0,0,0
+Rail,New construction,bus,0,0,0,0,0,0
+Rail,New construction,lgv,0,0,0,0,0,0
+Rail,New construction,hgv,0,0,0,0,0,0
+Rail,Upgrade,walk,0,0,0,0,0,0
+Rail,Upgrade,cycle,0,0,0,0,0,0
+Rail,Upgrade,drive,0,0,0,0,0,0
+Rail,Upgrade,passenger,0,0,0,0,0,0
+Rail,Upgrade,rail,0,0,0,0,0,0
+Rail,Upgrade,bus,0,0,0,0,0,0
+Rail,Upgrade,lgv,0,0,0,0,0,0
+Rail,Upgrade,hgv,0,0,0,0,0,0
+Light Rail,New construction,walk,0,0,0,0,0,0
+Light Rail,New construction,cycle,0,0,0,0,0,0
+Light Rail,New construction,drive,0,0,0,0,0,0
+Light Rail,New construction,passenger,0,0,0,0,0,0
+Light Rail,New construction,rail,0,0,0,0,0,0
+Light Rail,New construction,bus,0,0,0,0,0,0
+Light Rail,New construction,lgv,0,0,0,0,0,0
+Light Rail,New construction,hgv,0,0,0,0,0,0
+Light Rail,Upgrade,walk,0,0,0,0,0,0
+Light Rail,Upgrade,cycle,0,0,0,0,0,0
+Light Rail,Upgrade,drive,0,0,0,0,0,0
+Light Rail,Upgrade,passenger,0,0,0,0,0,0
+Light Rail,Upgrade,rail,0,0,0,0,0,0
+Light Rail,Upgrade,bus,0,0,0,0,0,0
+Light Rail,Upgrade,lgv,0,0,0,0,0,0
+Light Rail,Upgrade,hgv,0,0,0,0,0,0
+Bicycle,New construction,walk,0.014,0.0155,0.017,0.069,0.1195,0.17
+Bicycle,New construction,cycle,0,0,0,0.069,0.1195,0.17
+Bicycle,New construction,drive,0.03,0.0755,0.121,0.069,0.1195,0.17
+Bicycle,New construction,passenger,0.056,0.14,0.224,0.069,0.1195,0.17
+Bicycle,New construction,rail,0.028,0.036,0.044,0.069,0.1195,0.17
+Bicycle,New construction,bus,0.042,0.0455,0.049,0.069,0.1195,0.17
+Bicycle,New construction,lgv,0,0,0,0,0,0
+Bicycle,New construction,hgv,0,0,0,0,0,0
+Bicycle,Upgrade,walk,0.014,0.0155,0.017,0.069,0.1195,0.17
+Bicycle,Upgrade,cycle,0,0,0,0.069,0.1195,0.17
+Bicycle,Upgrade,drive,0.03,0.0755,0.121,0.069,0.1195,0.17
+Bicycle,Upgrade,passenger,0.056,0.14,0.224,0.069,0.1195,0.17
+Bicycle,Upgrade,rail,0.028,0.036,0.044,0.069,0.1195,0.17
+Bicycle,Upgrade,bus,0.042,0.0455,0.049,0.069,0.1195,0.17
+Bicycle,Upgrade,lgv,0,0,0,0,0,0
+Bicycle,Upgrade,hgv,0,0,0,0,0,0
+Bus,New construction,walk,0,0.14,0,0,0.19,0
+Bus,New construction,cycle,0,0.04,0,0,0.19,0
+Bus,New construction,drive,0,0.36,0,0,0.19,0
+Bus,New construction,passenger,0,0.36,0,0,0.19,0
+Bus,New construction,rail,0,0.11,0,0,0.19,0
+Bus,New construction,bus,0,0,0,0,0.19,0
+Bus,New construction,lgv,0,0,0,0,0,0
+Bus,New construction,hgv,0,0,0,0,0,0
+Bus,Upgrade,walk,0,0,0,0,0,0
+Bus,Upgrade,cycle,0,0,0,0,0,0
+Bus,Upgrade,drive,0,0,0,0,0,0
+Bus,Upgrade,passenger,0,0,0,0,0,0
+Bus,Upgrade,rail,0,0,0,0,0,0
+Bus,Upgrade,bus,0,0,0,0,0,0
+Bus,Upgrade,lgv,0,0,0,0,0,0
+Bus,Upgrade,hgv,0,0,0,0,0,0
+Walking,New construction,walk,0,0,0,0,0,0
+Walking,New construction,cycle,0,0,0,0,0,0
+Walking,New construction,drive,0,0,0,0,0,0
+Walking,New construction,passenger,0,0,0,0,0,0
+Walking,New construction,rail,0,0,0,0,0,0
+Walking,New construction,bus,0,0,0,0,0,0
+Walking,New construction,lgv,0,0,0,0,0,0
+Walking,New construction,hgv,0,0,0,0,0,0
+Walking,Upgrade,walk,0,0,0,0,0,0
+Walking,Upgrade,cycle,0,0,0,0,0,0
+Walking,Upgrade,drive,0,0,0,0,0,0
+Walking,Upgrade,passenger,0,0,0,0,0,0
+Walking,Upgrade,rail,0,0,0,0,0,0
+Walking,Upgrade,bus,0,0,0,0,0,0
+Walking,Upgrade,lgv,0,0,0,0,0,0
+Walking,Upgrade,hgv,0,0,0,0,0,0
+Road - Minor,New construction,walk,0,0,0,0,0,0
+Road - Minor,New construction,cycle,0,0,0,0,0,0
+Road - Minor,New construction,drive,0,0,0,0,0,0
+Road - Minor,New construction,passenger,0,0,0,0,0,0
+Road - Minor,New construction,rail,0,0,0,0,0,0
+Road - Minor,New construction,bus,0,0,0,0,0,0
+Road - Minor,New construction,lgv,0,0,0,0,0,0
+Road - Minor,New construction,hgv,0,0,0,0,0,0
+Road - Minor,Upgrade,walk,0,0,0,0,0,0
+Road - Minor,Upgrade,cycle,0,0,0,0,0,0
+Road - Minor,Upgrade,drive,0,0,0,0,0,0
+Road - Minor,Upgrade,passenger,0,0,0,0,0,0
+Road - Minor,Upgrade,rail,0,0,0,0,0,0
+Road - Minor,Upgrade,bus,0,0,0,0,0,0
+Road - Minor,Upgrade,lgv,0,0,0,0,0,0
+Road - Minor,Upgrade,hgv,0,0,0,0,0,0
+Road - Major,New construction,walk,0,0,0,0,0,0
+Road - Major,New construction,cycle,0,0,0,0,0,0
+Road - Major,New construction,drive,0,0,0,0,0,0
+Road - Major,New construction,passenger,0,0,0,0,0,0
+Road - Major,New construction,rail,0,0,0,0,0,0
+Road - Major,New construction,bus,0,0,0,0,0,0
+Road - Major,New construction,lgv,0,0,0,0,0,0
+Road - Major,New construction,hgv,0,0,0,0,0,0
+Road - Major,Upgrade,walk,0,0,0,0.09,0.16,1.78
+Road - Major,Upgrade,cycle,0,0,0,0,0,0
+Road - Major,Upgrade,drive,0,0,0,0,0,0
+Road - Major,Upgrade,passenger,0,0,0,0,0,0
+Road - Major,Upgrade,rail,0,0,0,0,0,0
+Road - Major,Upgrade,bus,0,0,0,0,0,0
+Road - Major,Upgrade,lgv,0,0,0,0,0,0
+Road - Major,Upgrade,hgv,0,0,0,0,0,0
