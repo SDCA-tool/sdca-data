@@ -29,7 +29,6 @@
 "hs_line_tunnel_mined","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_tunnel_mined","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_station_grade","hs_culvert","Culvert",TRUE,"CV-BR-CV","number","number","number",,"number",
-"hs_station_elevated","hs_building_elevated","Building",TRUE,"GR-BL","m2","area","area, number","number",,
 "rail_overbridge_flyover_road","rail_ob_flyover_road","rail_overbridge_flyover_road",TRUE,"CV-BR-OB","number","number","number","number",,
 "rail_overbridge_a_road","rail_ob_a_road","rail_overbridge_footpath",TRUE,"CV-BR-OB","number","number","number","number",,
 "rail_overbridge_b_road","rail_ob_b_road","rail_overbridge_footpath",TRUE,"CV-BR-OB","number","number","number","number",,

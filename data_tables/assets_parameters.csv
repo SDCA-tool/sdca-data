@@ -14,8 +14,6 @@
 "hs_cut_cover_tunnel","number","number",1
 "hs_mined_tunnel","diameter","km",0.009
 "hs_mined_tunnel","number","number",1
-"hs_building_elevated","area","km2",0.1
-"hs_building_elevated","number","number",1
 "rail_ob_rail","span","m",20
 "rail_ub_road","span","m",20
 "rail_ub","span","m",20
