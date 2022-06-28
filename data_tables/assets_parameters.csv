@@ -30,8 +30,8 @@
 "cycle_lane_stepped","width","m",2.5
 "cycle_lane_segregated","length","m",
 "cycle_lane_segregated","width","m",2.5
-"cycle_lane_rural","length","m",
-"cycle_lane_rural","width","m",2.5
+"cycle_track_rural","length","m",
+"cycle_track_rural","width","m",2.5
 "cycle_track_urban","length","m",
 "cycle_track_urban","width","m",2.5
 "cycle_upgrade_stepped","length","m",
@@ -45,7 +45,7 @@
 "cycle_docking_station","number","number",1
 "cycle_secure_parking","number","number",1
 "local_speed_bumps","number","1",
-"local_roa_narrowing","number","1",
+"local_narrowing","number","1",
 "foot_road_crossing","number","1",
 "foot_bridge","number","1",
 "bus_shelter","number","1",
