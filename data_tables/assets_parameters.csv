@@ -12,16 +12,9 @@
 "hs_tunnel_portal","number","number",
 "hs_cut_cover_tunnel","diameter","km",0.009
 "hs_cut_cover_tunnel","number","number",1
-"hs_mined_tunnel","diameter","km",0.009
-"hs_mined_tunnel","number","number",1
 "rail_ob_rail","span","m",20
 "rail_ub_road","span","m",20
 "rail_ub","span","m",20
-"rail_underpass_footpath","span","m",20
-"rail_underpass","span","m",20
-"rail_track","number","number",
-"rail_track","width","m",19
-"rail_ole","number","number",
 "cycle_lane_painted","length","m",
 "cycle_lane_painted","width","m",2.5
 "cycle_lane_stepped","length","m",

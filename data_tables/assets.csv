@@ -24,10 +24,6 @@
 "hs_line_tunnel_cut_cover","hs_tunnel_portal","Tunnel Portal",TRUE,"CV-US-TN-PR","number","number","number",,,"number"
 "hs_line_tunnel_cut_cover","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
 "hs_line_tunnel_cut_cover","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
-"hs_line_tunnel_mined","hs_mined_tunnel","Mined Tunnel",TRUE,"Mined Tunnel","m","length","length, diameter, number","number","length",
-"hs_line_tunnel_mined","hs_tunnel_portal","Tunnel Portal",TRUE,"CV-US-TN-PR","number","number","number",,,"number"
-"hs_line_tunnel_mined","hs_track_double","Track (double)",TRUE,,"m","length","length, width",,"length",
-"hs_line_tunnel_mined","hs_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "hs_station_grade","hs_culvert","Culvert",TRUE,"CV-BR-CV","number","number","number",,"number",
 "rail_overbridge_flyover_road","rail_ob_flyover_road","rail_overbridge_flyover_road",TRUE,"CV-BR-OB","number","number","number","number",,
 "rail_overbridge_a_road","rail_ob_a_road","rail_overbridge_footpath",TRUE,"CV-BR-OB","number","number","number","number",,
@@ -39,12 +35,6 @@
 "rail_underbridge_road","rail_ub_road","Underbridge",TRUE,"CV-BR-UB","number","number","number, span","number",,
 "rail_underbridge_rail","rail_ub","Underbridge",TRUE,"CV-BR-UB","m","length","number, span","number",,
 "rail_green_bridge","rail_green_bridge","Green Bridge",TRUE,"CV-BR-GB","number","number","number","number",,
-"rail_underpass_footpath","rail_underpass_footpath","Underpass",TRUE,"CV-BR-UP","number","number","number, span","number",,
-"rail_underpass","rail_underpass","Underpass",TRUE,"CV-BR-UP","number","number","number, span","number",,
-"rail_maintenance_depot","rail_track","Track (double)",TRUE,,"m","length","length, width, number",,"length","number"
-"rail_maintenance_depot","rail_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
-"rail_freight_terminal","rail_track","Track (double)",TRUE,,"m","length","length, width, number",,"length","number"
-"rail_freight_terminal","rail_ole","OLE",TRUE,,"m","length","length, number",,"length","number"
 "cycle_lane_painted","cycle_lane_painted","Cycle lane painted",TRUE,,"m","length","length, width",,"length, width",
 "cycle_lane_stepped","cycle_lane_stepped","Cycle lane stepped",TRUE,,"m","length","length, width",,"length, width",
 "cycle_lane_segregated","cycle_lane_segregated","Cycle lane segregated",TRUE,,"m","length","length, width",,"length, width",
