@@ -1,23 +1,23 @@
-col_name,data_type,name,description
-LSOA11,text,LSOA code,Code for the Lower Super Output Area in 2011 census
-SOAC11NM,text,Area classification,LSOA area classification
-LAD17NM,text,Local Authority name,Local Authority name in 2017
-cars_percap_grade,text,Cars per person grade,Grade from A+ to F- for the number of cars per person
-km_percap_grade,text,Kilometres driven per person,Grade from A+ to F- for the number of km driven per person
-T2W_Car_grade,text,Travel to work by car grade,Grade from A+ to F- for the proportion of people who travel to work by car
-T2W_Cycle_grade,text,Travel to work by bicycle grade,Grade from A+ to F- for the proportion of people who travel to work by bicycle
-T2W_Bus_grade,text,Travel to work by bus grade,Grade from A+ to F- for the proportion of people who travel to work by bus
-T2W_Train_grade,text,Travel to work by train grade,Grade from A+ to F- for the proportion of people who travel to work by train
-T2W_Foot_grade,text,Travel to work by foot grade,Grade from A+ to F- for the proportion of people who travel to work by foot
-T2W_Underground_grade,text,Travel to work by underground/light rail grade,"Grade from A+ to F- for the proportion of people who travel to work by London underground, tram, or other light rail"
-elec_emissions_grade,text,Electricity  emissions grade,Grade from A+ to F- for the consumption of electricity
-gas_emissions_grade,text,Gas emissions grade,Grade from A+ to F- for the consumption of gas
-car_emissions_grade,text,Car emissions grade,Grade from A+ to F- for the emissions from driving cars
-total_emissions_grade,text,Total emissions grade,Grade from A+ to F- for the total carbon footprint
-flights_grade,text,Flights emissions grade,Grade from A+ to F- for the emissions from flying
-other_heating_grade,text,Other heating emissions grade,Grade from A+ to F- for the emission from non-gas non-electric heating
-van_grade,text,Van emissions grade,Grade from A+ to F- for the driving of vans
-consumption_grade,text,Consumption emissions grade,Grade from A+ to F- for the consumption of good and services
-epc_score_avg,decimal,Average EPC score,Average Energy Performance Certificate score for homes in 2020
-floor_area_avg,decimal,Average floor area,Average floor area of homes with an EPC in 2020
-low_energy_light,decimal,Low energy lights,The percentage of lights with low energy lightbulbs
+col_name,data_type,name,description,selectable
+LSOA11,text,LSOA code,Code for the Lower Super Output Area in 2011 census,
+SOAC11NM,text,Area classification,LSOA area classification,1
+LAD17NM,text,Local Authority name,Local Authority name in 2017,
+cars_percap_grade,text,Cars per person grade,Grade from A+ to F- for the number of cars per person,1
+km_percap_grade,text,Kilometres driven per person,Grade from A+ to F- for the number of km driven per person,1
+T2W_Car_grade,text,Travel to work by car grade,Grade from A+ to F- for the proportion of people who travel to work by car,1
+T2W_Cycle_grade,text,Travel to work by bicycle grade,Grade from A+ to F- for the proportion of people who travel to work by bicycle,1
+T2W_Bus_grade,text,Travel to work by bus grade,Grade from A+ to F- for the proportion of people who travel to work by bus,1
+T2W_Train_grade,text,Travel to work by train grade,Grade from A+ to F- for the proportion of people who travel to work by train,1
+T2W_Foot_grade,text,Travel to work by foot grade,Grade from A+ to F- for the proportion of people who travel to work by foot,1
+T2W_Underground_grade,text,Travel to work by underground/light rail grade,"Grade from A+ to F- for the proportion of people who travel to work by London underground, tram, or other light rail",1
+elec_emissions_grade,text,Electricity  emissions grade,Grade from A+ to F- for the consumption of electricity,1
+gas_emissions_grade,text,Gas emissions grade,Grade from A+ to F- for the consumption of gas,1
+car_emissions_grade,text,Car emissions grade,Grade from A+ to F- for the emissions from driving cars,1
+total_emissions_grade,text,Total emissions grade,Grade from A+ to F- for the total carbon footprint,1
+flights_grade,text,Flights emissions grade,Grade from A+ to F- for the emissions from flying,1
+other_heating_grade,text,Other heating emissions grade,Grade from A+ to F- for the emission from non-gas non-electric heating,1
+van_grade,text,Van emissions grade,Grade from A+ to F- for the driving of vans,1
+consumption_grade,text,Consumption emissions grade,Grade from A+ to F- for the consumption of good and services,1
+epc_score_avg,decimal,Average EPC score,Average Energy Performance Certificate score for homes in 2020,1
+floor_area_avg,decimal,Average floor area,Average floor area of homes with an EPC in 2020,1
+low_energy_light,decimal,Low energy lights,The percentage of lights with low energy lightbulbs,1
