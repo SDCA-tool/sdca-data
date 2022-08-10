@@ -50,5 +50,5 @@
 		}
 	},
 	"_fillOpacity": 0.7,
-	"_fillOoutlineColor": "rgba(0, 0, 0, 0.2)"
+	"_fillOutlineColor": "rgba(0, 0, 0, 0.2)"
 }
